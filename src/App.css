@@ -1,0 +1,23 @@
+.refetch{
+  font-weight: bold;
+  background-color: red;
+}
+.screen{
+  font-weight: bold;
+  font-size: x-large;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  
+}
+.h1{
+  font-weight: bold;
+  background-color: black;
+  color: aliceblue;
+}
+.label{
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  font-size: small;
+}
